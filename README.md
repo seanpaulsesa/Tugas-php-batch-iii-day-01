@@ -1,2 +1,2 @@
-# Tugas-php-batch-iii-day-01
-Belajar pemograman dasar dengan PHP
+# php-batch-ii-day-01
+Belajar pemrograman dasar dengan PHP
